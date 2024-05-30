@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Agenda de notas</string>
+
+    <string name="a_inicio">INICIO</string>
+    <string name="a_ajustes">AJUSTES</string>
+    <string name="a_perfil">Mi Perfil</string>
+    <string name="a_salir">Salir</string>
+
+    <string name="item_tareas">Mis tareas</string>
+    <string name="item_contactos">Mis contactos</string>
+
+    <string name="txt_Mi_Agenda">MI AGENDA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

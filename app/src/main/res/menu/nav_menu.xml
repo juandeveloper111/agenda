@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/grupo_uno"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/a_inicio"
+            android:title="@string/a_inicio"
+            android:icon="@drawable/inicio_icono"
+            />
+        <item
+            android:id="@+id/a_perfil"
+            android:title="@string/a_perfil"
+            android:icon="@drawable/perfil_icono"
+            />
+        <item
+            android:id="@+id/a_ajustes"
+            android:title="@string/a_ajustes"
+            android:icon="@drawable/ajustes_icono"
+            />
+
+    </group>
+
+    <item
+        android:id="@+id/a_salir"
+        android:title="@string/a_salir"
+        android:icon="@drawable/ic_exit"
+        />
+
+</menu>
